@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest! Contributions are very welcome.
+Спасибо за Ваш интерес! Вклад очень приветствуется.
 
 ## Getting Started
 

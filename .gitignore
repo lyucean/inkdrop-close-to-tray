@@ -108,3 +108,14 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/node
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/inkdrop-close-to-tray.iml
+/.idea/markdown.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
+/package-lock.json

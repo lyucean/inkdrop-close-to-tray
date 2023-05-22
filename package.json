@@ -2,7 +2,7 @@
   "name": "tray",
   "version": "1.4.1",
   "description": "Tray functionality for Inkdrop",
-  "repository": "https://github.com/jmerle/inkdrop-tray",
+  "repository": "https://github.com/lyucean/inkdrop-close-to-tray",
   "license": "MIT",
   "main": "./src/index",
   "scripts": {
